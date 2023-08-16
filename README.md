@@ -12,3 +12,11 @@
     - A super easy command line client and API.
 
 # Docker explained
+
+- ##### Containers vs virtual machines
+| Containers                        | Virtual Machines  |
+| -------------                  |:-----------------:|
+| Run in container runtimes      | right-aligned     |
+| work alongside operating system   | centered          |
+| Do not require OS configuration                     | are neat          |
+| Run one app at a time ( usually )
