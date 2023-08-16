@@ -14,9 +14,9 @@
 # Docker explained
 
 - ##### Containers vs virtual machines
-| Containers                        | Virtual Machines  |
-| -------------                  |:-----------------:|
-| Run in container runtimes      | right-aligned     |
-| work alongside operating system   | centered          |
-| Do not require OS configuration                     | are neat          |
-| Run one app at a time ( usually )
+| Containers                        | Virtual Machines              |
+| -------------                     |:-----------------------------:|
+| Run in container runtimes         | Run on top of hypervisors     |
+| work alongside operating system   | Need hardware emulation       |
+| Do not require OS configuration   | Require OS configuration      |
+| Run one app at a time ( usually ) | Can run many apps at a time   |
